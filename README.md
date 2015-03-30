@@ -1,1 +1,1 @@
-# TSW_Laboratoria
+# Zadanka laboratoryjne
